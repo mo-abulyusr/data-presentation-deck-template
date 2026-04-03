@@ -1,45 +1,47 @@
-# Overview
-This is a PowerPoint presentation deck for data pros. Feel free to use it anytime for any purpose. 
+# Presentation Deck Template
 
-# Background
+This repo contains a simple PowerPoint deck for data professionals who want a cleaner way to present analysis, explain results, and guide decisions.
 
+## What It's For
 
-The way you present your analysis often has a greater impact on your career than doing the analysis itself. 
+Use this deck when you need to turn analysis into a story that people can follow. It helps you:
 
+- focus on the result, not just the method
+- adjust detail for the audience in front of you
+- present findings in a clearer, more professional way
+- make your work easier to understand and act on
 
-Most data professionals I meet don’t know how to effectively present their findings. Their presentations are hard to follow and are filled with complicated graphs and technical jargon that can be overwhelming. 
+## How It Helps
 
+Good analysis is not enough if the story is hard to follow. This template gives you a structure you can reuse so your presentation stays direct, organized, and easy to scan.
 
-Poor presentation skills can stall your career. If no one understands your analysis, they miss the insights needed for decisions. Clear communication of your vision and findings is crucial as you advance in your career.
+It is designed to help with common data presentations:
 
+- sharing results with leadership
+- walking a manager through the approach and impact
+- presenting deeper technical detail to peers
+- keeping slides focused on decisions, not noise
 
-Persuasive presenting is your ticket to the top.
+## What's Inside
 
+- `assets/presentation-template.pptx` - editable PowerPoint deck
+- `assets/presentation-template.pdf` - PDF version for quick viewing
+- `preview/` - space for slide thumbnails or other lightweight previews later
 
-Presenting effectively helps you
-1. get buy-in for your ideas
-2. be perceived as a leader
-3. foster trust and credibility
-4. drive action and results
+## How To Use It
 
+1. Open the `.pptx` file in PowerPoint.
+2. Replace the sample content with your own analysis.
+3. Keep the structure simple: problem, approach, findings, recommendation.
+4. Use the PDF version if you just want to review the deck quickly.
 
+## How To Adapt It
 
+- Change the title slide to match your project.
+- Keep only the slides you need.
+- Rewrite the slide text so it matches your audience.
+- Add charts, screenshots, or callouts where they support the story.
 
+## Preview
 
-The key to a compelling presentation lies in understanding your audience and tailoring your content to respect their time, cater to their technical understanding, and align with their interests and goals.
-
-
-Presenting to a senior leader? 
-↳ focus on the results of your analysis and their relevance to the company's vision—they're tight on time.
-
-Presenting to your manager? 
-↳ detail the methodology, assumptions, findings and the impact on the team and the broader organization.
-
-Presenting to your peers? 
-↳ dive deep into the details; it's a collaborative learning experience, and you share a common level of technical understanding.
-
-
-I’ve put together a PowerPoint presentation template to help you hit on all of these points! 
-
-
-Let me know what you think of it, and share any tips you that might have improved your presentations.
+No slide images are checked in yet. If you want to add them later, use the `preview/` folder for rendered thumbnails or screenshots.
